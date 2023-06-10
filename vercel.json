@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://www.google.com.hk/$1" }
+    { "source": "/(.*)", "destination": "https://www.pinterest.jp/$1" }
   ]
 }
